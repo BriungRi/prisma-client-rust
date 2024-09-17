@@ -58,7 +58,7 @@ serde = { version = "1.0", features = ["derive"] }
 serde_json = "1.0"
 
 convert_case = "0.6.0"
-rspc = { git = "https://github.com/BriungRi/rspc", rev = "036b2e5d6597c508463250669f329030cc5ce248", features = ["tracing"] }
+rspc = { git = "https://github.com/aptos-labs/rspc", rev = "036b2e5d6597c508463250669f329030cc5ce248", features = ["tracing"] }
 
 specta = { version = "1.0.2" }
 
